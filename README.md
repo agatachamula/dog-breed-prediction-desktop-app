@@ -6,6 +6,8 @@
 <p align="center">
 Application in Python with user interface in Kivy that predicts dog breed based on image provided by user.
 </p>
+<br/>
+
 
 ## Prerequisites
 
