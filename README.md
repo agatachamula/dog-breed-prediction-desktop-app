@@ -40,14 +40,14 @@ Welcome screen:
 </p>
 
 
-
+<br/>
 After clicking button on the bottom user is redirected to the new screen with file explorer:
 
 <p align="center">
   <img  src="https://github.com/agatachamula/dog-breed-prediction-desktop-app/blob/master/App%20screens/2.PNG?raw=true"> 
 </p>
 
-
+<br/>
 User chooses file with image of the dog and clicks the button. After a second prediction is made and user is redirected to new screen:
 
 <p align="center">
@@ -55,7 +55,8 @@ User chooses file with image of the dog and clicks the button. After a second pr
 </p>
 
 User image is displayed. Below result of prediction and two similar looking breeds are displayed. With all the breeds example images are also presented.
-
+<br/>
+<br/>
 ## Resources
 
 All dog images are from Stanford dataset.
