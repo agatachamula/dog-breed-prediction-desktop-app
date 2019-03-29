@@ -29,7 +29,7 @@ User Interface for the application was prepared with Kivy package. App consists 
 Welcome screen:
 
 ![alt text](https://github.com/agatachamula/dog-breed-prediction-desktop-app/blob/master/App%20screens/1.PNG?raw=true)
-
+<br>
 
 
 After clicking button on the bottom user is redirected to the new screen with file explorer:
