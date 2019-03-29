@@ -31,9 +31,11 @@ Welcome screen:
 ![alt text](https://github.com/agatachamula/dog-breed-prediction-desktop-app/blob/master/App%20screens/1.PNG?raw=true)
 
 
+
 After clicking button on the bottom user is redirected to the new screen with file explorer:
 
 ![alt text](https://github.com/agatachamula/dog-breed-prediction-desktop-app/blob/master/App%20screens/2.PNG?raw=true)
+
 
 User chooses file with image of the dog and clicks the button. After a second prediction is made and user is redirected to new screen:
 
