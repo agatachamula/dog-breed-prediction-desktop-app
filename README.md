@@ -2,7 +2,10 @@
 
 Application in Python with user interface in Kivy that predicts dog breed based on image provided by user.
 
-![alt text](https://github.com/agatachamula/dog-breed-prediction-desktop-app/blob/master/resources/dog.png?raw=true)
+p align="center">
+  <img width="150" height="150" src="https://github.com/agatachamula/dog-breed-prediction-desktop-app/blob/master/resources/dog.png?raw=true">
+</p>
+
 
 ## Prerequisites
 
